@@ -8,7 +8,7 @@ So... Here's the beginning, I'm really curious to see what it's going to be like
 
 ## A few words about the site
 
-The site you're currently reading was written in JavaScript, to be precise I used Gatsby framework. That's not my favorite one, I prefer Svelte, but in this case Gatsby fullfil his duty better than well.
+The site you're currently reading was written in JavaScript, to be precise I used Gatsby framework. That's not my favorite one, I prefer Svelte, but in this case Gatsby fulfill its duty better than well.
 
 ![BenchmarkScreen](./Screenshot-2023-05-08-at-14-48-50-Lighthouse-Report.jpg)
 

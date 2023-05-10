@@ -30,7 +30,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <div class="p-2">
-        <h5>Inquiry Form</h5>
+        <h5>Inquiry Form (Not available yet)</h5>
         <p>If you want to collaborate with me, you can send inquiry using the form below. <br></br> You'll receive response up to 48 hours.</p> 
         <div class="inquiry">
           <div class="inquiry-inputs">
