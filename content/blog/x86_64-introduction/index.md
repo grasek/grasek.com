@@ -4,7 +4,7 @@ date: "2023-05-17T13:39:32.169Z"
 description: "Introduction to x86-64 architecture, low-level programming, driver development and many others interesting things."
 ---
 
-Introduction to x86-64 architecture, low-level programming, driver development and many others interesting things.
+Introduction to x86-64 architecture, low-level programming, drivers development and many others interesting things.
 
 #### Abstraction Layers
 
