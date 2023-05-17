@@ -54,8 +54,8 @@ const BlogIndex = ({ data, location }) => {
                         <div class='project-content'>
                             <div class='project-description'>
                                 <p class='project-subtitle'>Sub-domains enumerating tool</p>
-                                <p>One of the most powerful Go features is its rich networking libraries.</p>
-                                <p></p>
+                                <p>Tools for enumerating subdomains, with the possibility of configuring workers and namelists.</p>
+                                <p>It can be very useful if you want to check if the target domain has hidden services or something listed on the Internet that should not be listed. In the implementation I used well-known https://github.com/miekg/dns library to maximize performance.</p>
                                 <p>
                                     <b>Links:</b>&nbsp;<a href={`https://github.com/grasek`}>Github</a>
                                 </p>
@@ -85,8 +85,12 @@ const BlogIndex = ({ data, location }) => {
                         <div class='project-content'>
                             <div class='project-description'>
                                 <p class='project-subtitle'>Wikipedia in your terminal</p>
-                                <p>bash-translate is very useful thing</p>
-                                <p></p>
+                                <p>
+                                Command-line tools can be invaluable when it comes to total productivity and simply convenience in using our machines.</p><p> Personally, I have been using translate-shell for a long time. It's 10 times faster to write "trans X" in a terminal than to open a browser, search for a translator,.... Inspired by this tool, I created something similar, but in a different field.
+                                </p>
+                                <p>
+                                Def instead of translating the word, just write its definition from wikipedia to you. If you do not need the whole definition, you can add a second parameter, which means the maximum number of sentences.
+                                </p>
                                 <p>
                                     <b>Links:</b>&nbsp;<a href={`https://github.com/grasek`}>Github</a>
                                 </p>
