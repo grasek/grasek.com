@@ -44,7 +44,7 @@ const NotFoundPage = ({ data, location }) => {
         
         <div>
           <a>INCITS/ISO/IEC 9899</a>
-          <p>If you are extremely curious about language details (or so insane that you want to write your own compiler), you might appreciate the Language Standard and Specification. <br></br>While there is no free version of this document, someone has told me that 278006613[at]tutanota[dot]com is knowledgeable about it and may be able to provide answers.</p>
+          <p>If you are extremely curious about language details (or insane enough that you want to write your own compiler), you might appreciate the Language Standard and Specification. <br></br>While there is no free version of this document, someone has told me that 278006613[at]tutanota[dot]com is knowledgeable about it and may be able to provide answers.</p>
         </div>
 
         <h6>Remember - separate the work from its fruits. Nobody cares if you read 10 books.<br></br> Get one, and that alone will make a significant difference.</h6>
